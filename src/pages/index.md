@@ -3,7 +3,7 @@ templateKey: index-page
 title: This is Netlify!
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: This is what a netlify site can look like
 mainpitch:
   title: Why Kaldi
   description: >
